@@ -98,7 +98,7 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls="ls -lh"
-alias firefox="/Applications/Firefox.app/Contents/MacOS/firefox &"
+alias firefox="nohup /Applications/Firefox.app/Contents/MacOS/firefox -foreground &"
 alias ff="firefox"
 alias lg="lazygit"
 
