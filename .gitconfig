@@ -1,0 +1,7 @@
+[user]
+	email = tomasmartty@gmail.com
+	name = tmartty
+[http]
+	postBuffer = 157286400
+[init]
+	defaultBranch = main
