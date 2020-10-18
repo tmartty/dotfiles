@@ -100,7 +100,7 @@ source $ZSH/oh-my-zsh.sh
 alias ls="ls -lh"
 alias firefox="/Applications/Firefox.app/Contents/MacOS/firefox &"
 alias ff="firefox"
-alias monocle="cd /var/www/html/monocle-reader"
+alias lg="lazygit"
 
 export PATH="/usr/local/opt/node@10/bin:$PATH"
 export PATH="/usr/local/opt/node@10/bin:$PATH"
