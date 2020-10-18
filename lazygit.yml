@@ -1,0 +1,12 @@
+reporting: "on"
+startuppopupversion: 1
+gui:
+  theme:
+    lightTheme: false
+    activeBorderColor:
+      - yellow
+      - bold
+    inactiveBorderColor:
+      - black
+    optionsTextColor:
+      - white
